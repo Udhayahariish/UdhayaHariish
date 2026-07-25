@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Udhaya Hariish Banner" width="100%">
-</p>
+
 
 <div align="center">
 
