@@ -81,6 +81,7 @@ I am currently seeking opportunities where I can contribute, learn from experien
 - Sensors & Actuators
 - Embedded Systems
 - Serial Communication
+- Arduino learnodo
 
 ---
 
